@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929192555172",
+    "firebase_url": "https://ggomaktalk-9f842.firebaseio.com",
+    "project_id": "ggomaktalk-9f842",
+    "storage_bucket": "ggomaktalk-9f842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929192555172:android:ee7a8c6bf5b589c6ccac31",
+        "android_client_info": {
+          "package_name": "com.example.ggomaktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929192555172-ngd32isckctasg82innlacfjarnlrgl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ggomaktalk",
+            "certificate_hash": "9c046e0950d63a1e9a7bed43190157d18a83ec13"
+          }
+        },
+        {
+          "client_id": "929192555172-tp6gpivkua06ulj896era9q1deeuh94q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBr-GXrczskbh0WBM2cXRdNxhz2Zli4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929192555172-tp6gpivkua06ulj896era9q1deeuh94q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
