@@ -3,7 +3,7 @@
   - Firebase를 이용하여 안드로이드 채팅 앱 클론 코딩하기
   - 강의 : Youtube Howlab
 
-# Gradle Version
+## Gradle Version
   
   - Android SDK : Anroid API level 28(Android Pie)
   - Firebase
@@ -16,7 +16,7 @@
   ```
   - Glide : 4.11.0
 
-# 구현 기능
+## 구현 기능
 
   - 이메일 회원가입 및 로그인 기능
   - 채팅방 생성 및 참여 기능
