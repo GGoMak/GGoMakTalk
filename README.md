@@ -14,6 +14,7 @@
   firebase-storage:19.1.0
   firebase-messaging:20.0.0
   ```
+  - Glide : 4.11.0
 
 # 구현 기능
 
